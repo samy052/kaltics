@@ -11,23 +11,3 @@ pypdf
 google-cloud-aiplatform>=1.38
 
 
-streamlit
-PyPDF2
-pandas
-seaborn
-numpy
-chardet
-matplotlib
-reportlab
-
-
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-os-sys
-statsmodels
-PyPDF2
-fpdf
-sklearn
